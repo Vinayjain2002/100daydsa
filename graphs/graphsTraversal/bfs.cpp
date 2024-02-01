@@ -31,6 +31,7 @@ void bfs(vector<int>addList[],int vertices){
     }
 }
 
+
 int main(){
     cout<<"going to learn abt the bfs"<<endl;
     const int vertices=7;
